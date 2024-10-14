@@ -3,8 +3,7 @@ from turtle import *
 speed(50)
 width(3)
 
-
-#outline of ფასანაურული ხინკალი 👌
+#ფასანაურული ხინკალი 👌
 
 color("grey")
 
